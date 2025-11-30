@@ -1,0 +1,7 @@
+#a __len__ function that returns 0 or False
+class myclass():
+  def __len__(self):
+    return 0
+
+myobj = myclass()
+print(bool(myobj))
