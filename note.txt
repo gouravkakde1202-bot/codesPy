@@ -1,0 +1,3 @@
+ek random no. ganret karana hai 0-100 user se puch ke 
+ager invalid hai to error dena
+no valid hai gas is too low ,your gas hi high
